@@ -43,7 +43,7 @@ Edit the configuration settings in `btcConnect.go` to specify the network (mainn
 ### Running the Client
 Run the client using:
 ```
-go run goele.go
+go run btcConnect.go
 ```
 
 ## Usage
